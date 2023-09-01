@@ -33,8 +33,9 @@
   
   연령_5세___혼인지속기간_동거기간_별_이혼_20230517123720.csv
 
+[dsci_기말_신준철_20185254 (2).pdf](https://github.com/auspicious0/divorce_project/files/12496139/dsci_._._20185254.2.pdf)
 
 ## 문의
 프로젝트에 관한 문의나 버그 리포트는 [이슈 페이지](https://github.com/auspicious0/divorce_project/divorce_project/issues)를 통해 제출해주세요.
 
-보다 더 자세한 내용을 원하신다면 dsci_기말_신준철_20185254.pdf 파일을 확인해 주시기 바랍니다.
+보다 더 자세한 내용을 원하신다면 [보고서](https://github.com/auspicious0/divorce_project/files/12496139/dsci_._._20185254.2.pdf) 를 확인해 주시기 바랍니다.
